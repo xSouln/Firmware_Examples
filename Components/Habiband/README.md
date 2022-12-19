@@ -18,7 +18,7 @@ ___
   - processing of the included components
   - settings management
 - Files:
-  - [Habiband_Types.h](Habiband_types.h) contains types
+  - [Habiband_Types.h](Habiband_Types.h) contains types
   - [Habiband_Config.h](Habiband_Config.h) - contains default settings, constants, and other configurable values
   - [Habiband_BLE.h](Habiband_BLE.h) contains data types for working with the BLE abstraction
   - [Habiband_BLEAdapter.с](Habiband_BLEAdapter.с) contains initialization of the BLE management interface
